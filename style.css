@@ -25,10 +25,15 @@ footer{
     *{
         font-size: small;
     }
-    #caurosel img{
+    .carouselimg{
         width: 500px;
     }
     footer{
         visibility: hidden;
+    }
+}
+@media screen and (max-width: 576px;){
+    #caurosel{
+        display: none;
     }
 }
