@@ -25,6 +25,9 @@ footer{
     *{
         font-size: small;
     }
+    #caurosel img{
+        width: 500px;
+    }
     footer{
         visibility: hidden;
     }
