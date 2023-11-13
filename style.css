@@ -32,8 +32,11 @@ footer{
         visibility: hidden;
     }
 }
-@media screen and (max-width: 990px;){
+@media screen and (max-width: 576px;){
     #caurosel{
+        display: none;
+    }
+    .linknav{
         display: none;
     }
 }
